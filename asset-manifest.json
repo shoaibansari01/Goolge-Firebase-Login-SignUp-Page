@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Goolge-Firebase-Login-SignUp-Page/static/css/main.f986677a.css",
+    "main.js": "/Goolge-Firebase-Login-SignUp-Page/static/js/main.0a79c64b.js",
+    "index.html": "/Goolge-Firebase-Login-SignUp-Page/index.html",
+    "main.f986677a.css.map": "/Goolge-Firebase-Login-SignUp-Page/static/css/main.f986677a.css.map",
+    "main.0a79c64b.js.map": "/Goolge-Firebase-Login-SignUp-Page/static/js/main.0a79c64b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f986677a.css",
+    "static/js/main.0a79c64b.js"
+  ]
+}
